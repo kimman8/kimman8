@@ -1,5 +1,11 @@
-### Hi there 👋 
-I am Kim, a front end web developer! I love creating art, code and weird projects for this perfect and always evolving medium: the web! <br>
+### Hi there 👋, my name is Kim Yuen
+#### Design and Development
+![Design and Development](https://i.imgur.com/vtVzjJ1.png)
+
+I am Kim, a front end web developer! I love creating art, code and weird projects for this perfect and always evolving medium: the web! 
+
+Skills: REACT / JS / HTML / CSS
+
 Check out some of my work:<br>
  <br>
 🔋 [Vibroflow](https://vibroflow-gallery.vercel.app) <br>
@@ -12,16 +18,6 @@ Check out some of my work:<br>
 ----
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimman8)](https://github.com/anuraghazra/github-readme-stats)
-
-### Hi there 👋, my name is Kim Yuen
-#### Design and Development
-![Design and Development](https://i.imgur.com/vtVzjJ1.png)
-
-I am Kim, a front end web developer! I love creating art, code and weird projects for this perfect and always evolving medium: the web! 
-
-Skills: REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
 
 
 
