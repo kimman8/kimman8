@@ -10,3 +10,6 @@ Check out some of my work:<br>
 🏦 [KA CHING Banking](https://kaching.netlify.app/) <br>
 
 ----
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimman8)](https://github.com/anuraghazra/github-readme-stats)
+
