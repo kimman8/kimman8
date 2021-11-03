@@ -15,13 +15,18 @@ Check out some of my work:<br>
 
 ### Hi there 👋, my name is Kim Yuen
 #### Design and Development
-![Design and Development](https://imgur.com/vtVzjJ1)
+![Design and Development](https://i.imgur.com/vtVzjJ1.png)
 
 I am Kim, a front end web developer! I love creating art, code and weird projects for this perfect and always evolving medium: the web! 
 
 Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 
 
