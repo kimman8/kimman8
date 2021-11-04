@@ -1,10 +1,13 @@
 ![Design and Development](https://i.imgur.com/vtVzjJ1.png)
-# Kim Yuen
-I am Kim, a front end web developer! I love creating art, code and weird projects for this perfect and always evolving medium: the web! 
+# Hi, I'm Kim Yuen 👋👨‍💻
+I'm a front end web developer! I love creating art, code and weird projects for this perfect and always evolving medium: the web! 
 
 ## Skills and Experience
 * ⚛️ React
 * 💻 HTML, CSS, JS 
+* 💅 styled-components
+* ✡️ GraphQL
+* Gatsby, NodeJS, Next.js, WordPress, NPM
 
 
 Check out some of my work:<br>
