@@ -7,7 +7,7 @@ I'm a front end web developer! I love creating art, code and weird projects for 
 * 💻 HTML, CSS, JS 
 * 💅 styled-components
 * ✡️ GraphQL
-* Gatsby, NodeJS, Next.js, WordPress, NPM
+* ⚙️ Gatsby, NodeJS, Next.js, WordPress, NPM
 
 
 Check out some of my work:<br>
