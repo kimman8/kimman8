@@ -1,4 +1,3 @@
-![Design and Development](https://i.imgur.com/vtVzjJ1.png)
 # Hi, I'm Kim Yuen 👋👨‍💻
 I'm a front end web developer! I love creating art, code and weird projects for this perfect and always evolving medium: the web! 
 
