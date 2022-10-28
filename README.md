@@ -11,8 +11,9 @@ I'm a frontend web developer! Avid rock climber who loves creating art, code and
 
 Check out some of my work:<br>
  <br>
-📺 [Spotify Clone](https://kims-spotty.netlify.app/) <br>
-🧗‍♀️ [YouTube Clone](https://kimsyoutube.vercel.app/) <br>
+🎵 [Spotify Clone](https://kims-spotty.netlify.app/) <br>
+📺 [YouTube Clone](https://kimsyoutube.vercel.app/) <br>
+🐦 [Twitter Clone](https://kimz-twitter.vercel.app/) <br>
 🔋 [Vibroflow](https://vibroflow-gallery.vercel.app) <br>
 🍚 [Lucky Start](https://luckystart.netlify.app/lunch) <br>
 
